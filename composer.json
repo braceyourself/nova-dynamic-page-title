@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Klepak\\NovaDynamicPageTitle\\": "src/"
+            "Braceyourself\\NovaDynamicPageTitle\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Klepak\\NovaDynamicPageTitle\\AssetServiceProvider"
+                "Braceyourself\\NovaDynamicPageTitle\\AssetServiceProvider"
             ]
         }
     },

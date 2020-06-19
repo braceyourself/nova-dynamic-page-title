@@ -1,6 +1,6 @@
 <?php
 
-namespace Klepak\NovaDynamicPageTitle;
+namespace Braceyourself\NovaDynamicPageTitle;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
