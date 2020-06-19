@@ -1,5 +1,5 @@
 {
-    "name": "klepak/nova-dynamic-page-title",
+    "name": "braceyourself/nova-dynamic-page-title",
     "description": "Dynamically updates Laravel Nova page title based on data from Vue router.",
     "keywords": [
         "laravel",
